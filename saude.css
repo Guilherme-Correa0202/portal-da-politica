@@ -1,0 +1,88 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#topo{
+    background-color: #5EC0C7;
+    height: 270px;
+    border: #40ABB3 solid 5px;
+}
+#ft1{
+    width: 30%;
+    float: left;
+    height: 200px;
+}
+#ft2{
+    margin-top: 10px;
+    width: 30%;
+    float: right;
+    height: 170px;
+}
+
+#redes{
+    clear: both;
+}
+img{
+    border-radius: 100%;
+}
+#tex{
+    float: left;
+    font-size: 170%;
+}
+#text h1{ 
+    margin-top: 60px;
+    margin-left: 70px;
+    font-family: Times, Times New Roman, serif;
+}
+h3{
+    margin-left: 160px;
+    font-size: 100%;
+    color: rgb(46, 46, 46);
+}
+#redes{
+    display:inline-flex;
+    list-style-type: none;
+    text-align: center;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+#redes img{
+    width: 50px;
+
+}
+#redes li{
+    margin-left: 25%;
+}
+#redes a:hover, #redes img:hover{
+    width: 55px;
+}
+body{
+    background-color: #fffefe;
+}
+main{
+    margin-top: 5px;
+    background-color: #52bab6;
+    width: 70%;
+    height: 1200px;
+    border-radius: 20px;
+    margin-left: 15%;
+    border: #3EAEA9  solid 2px;
+}
+section{
+    margin-top: 50px;
+    width: 90%;
+    height: 1100px;
+    background-color: #7ED3D0;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+p {
+    margin-left: 5%;
+    margin-right: 3%;
+
+}
+section h1{
+    font-size: 400%;
+    text-align: center;
+}
